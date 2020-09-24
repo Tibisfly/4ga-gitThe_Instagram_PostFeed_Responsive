@@ -10,13 +10,6 @@ body{
     font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
     font-size: smaller;
 }
-#wrapper{
-    width: 100%;
-    text-align: center;
-    margin-top: 10px;
-    background-color: gainsboro;
-    padding: 10px 0px 20px 0px;
-}
 .instagramPost{
     flex-direction: column;
     width: 400px;
