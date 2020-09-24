@@ -7,7 +7,6 @@ body{
 	width: 400px;
 	margin: 0 auto;
     text-align: center;
-    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
     font-size: smaller;
 }
 #wrapper{
@@ -28,7 +27,7 @@ body{
 .photoHeader{
     margin-top: 10px;
     margin-bottom: 10px;
-    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-family: 'Epilogue', sans-serif;
     padding-left: 10px;
     padding-right: 10px;
 }
@@ -48,10 +47,12 @@ img{
     height: auto;
 }
 .captionFeed{
-    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
     text-align: justify;
     font-size: small;
     color:gray;
     padding-bottom: 10px;
     margin-bottom: 10px;
+}
+.lead{
+    font-family: 'Epilogue', sans-serif;
 }
